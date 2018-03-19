@@ -3,4 +3,25 @@
     <string name="enter_email">enter email</string>
     <string name="login">LOGIN</string>
     <string name="enter_password">enter password</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+    <string name="appointment">Appointment</string>
+    <string name="enter_name">enter name</string>
+    <string name="signup">SIGNUP</string>
+    <string name="enter_mobilenumber">enter mobilenumber</string>
+    <string name="mohan">Mohan</string>
+    <array name="list">
+        <item>Kims</item>
+        <item>Indoamerica</item>
+        <item>Jamshedpur</item>
+    </array>
+    <string name="title_activity_nav5">nav5</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="sajjamohankrishna98_gmail_com">sajjamohankrishna98@gmail.com</string>
+    <string name="todo">TODO</string>
+    <string name="mohankrishna">Mohankrishna</string>
 </resources>
